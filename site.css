@@ -775,3 +775,26 @@ h2 {
 .mcq-pick:has(.mcq-in:checked) .mcq-key { border-color: #1e7b34; background: #f1faf2; }
 .mcq-answer { display: none; margin-top: 0.8rem; }
 .mcq-in:checked ~ .mcq-answer { display: block; }
+
+/* 5 Nov 2026: student navigation - Today card, recent list, archive page */
+.today { border: 1.5px solid var(--teal); border-radius: 14px; padding: 1.05rem 1.2rem 0.95rem; margin: 0 0 1.1rem; background: var(--card); }
+.today-label, .recent-label { margin: 0 0 0.35rem; font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--teal); font-weight: 700; }
+.today-title { display: block; font-family: var(--serif); font-size: 1.3rem; line-height: 1.32; font-weight: 650; margin: 0 0 0.45rem; }
+.today-hook { margin: 0 0 0.65rem; color: var(--muted); }
+.today-actions { margin: 0; font-size: 0.95rem; }
+.today-actions a { font-weight: 650; }
+.recent-list { list-style: none; margin: 0; padding: 0; }
+.recent-list li { display: flex; gap: 0.7rem; align-items: baseline; padding: 0.34rem 0; border-bottom: 1px dashed var(--line); }
+.recent-list li:last-child { border-bottom: 0; }
+.recent-date { flex: 0 0 3.1rem; font-size: 0.85rem; color: var(--muted); }
+.alllessons { margin: 0.7rem 0 0; font-weight: 650; }
+.arch-group { margin: 0 0 1.6rem; }
+.arch-group h3 { margin: 0 0 0.5rem; font-family: var(--serif); font-size: 1.1rem; }
+.arch-count { color: var(--muted); font-weight: 400; font-size: 0.85rem; }
+.arch-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.4rem; }
+.arch-jump { margin: 0.4rem 0 0; font-size: 0.92rem; }
+@media (max-width: 480px) {
+  .top { padding-left: 1rem; padding-right: 1rem; }
+  .top nav { gap: 0.7rem; }
+  .top nav a { font-size: 0.84rem; }
+}
