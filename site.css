@@ -794,7 +794,9 @@ h2 {
 .arch-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.4rem; }
 .arch-jump { margin: 0.4rem 0 0; font-size: 0.92rem; }
 @media (max-width: 480px) {
-  .top { padding-left: 1rem; padding-right: 1rem; }
-  .top nav { gap: 0.7rem; }
-  .top nav a { font-size: 0.84rem; }
+  .top { padding: 1rem 0.8rem 0.8rem; gap: 0.5rem; }
+  .top nav { gap: 0.55rem; }
+  .top nav a { font-size: 0.78rem; }
+  .brand-mark { width: 30px; height: 30px; }
+  .brand-text { font-size: 0.8em; }
 }
