@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://upsc.ahamgpsc.in/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </url>
   <url>
     <loc>https://upsc.ahamgpsc.in/practice.html</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </url>
   <url>
     <loc>https://upsc.ahamgpsc.in/archive.html</loc>
@@ -148,5 +148,9 @@
   <url>
     <loc>https://upsc.ahamgpsc.in/web-15-nov-2026-urban-heat-islands.html</loc>
     <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://upsc.ahamgpsc.in/web-16-nov-2026-urban-flooding.html</loc>
+    <lastmod>2026-11-16</lastmod>
   </url>
 </urlset>
