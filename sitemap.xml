@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://upsc.ahamgpsc.in/</loc>
@@ -6,11 +6,11 @@
   </url>
   <url>
     <loc>https://upsc.ahamgpsc.in/practice.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
   </url>
   <url>
     <loc>https://upsc.ahamgpsc.in/archive.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
   </url>
   <url>
     <loc>https://upsc.ahamgpsc.in/corrections.html</loc>
@@ -157,4 +157,4 @@
     <loc>https://upsc.ahamgpsc.in/web-17-nov-2026-groundwater.html</loc>
     <lastmod>2026-11-17</lastmod>
   </url>
-</urlset>
+<url><loc>https://upsc.ahamgpsc.in/web-18-nov-2026-drinking-water.html</loc><lastmod>2026-11-18</lastmod></url></urlset>
