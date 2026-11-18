@@ -800,3 +800,9 @@ h2 {
   .brand-mark { width: 30px; height: 30px; }
   .brand-text { font-size: 0.8em; }
 }
+
+/* 18 Nov: keep all primary navigation links visible on narrow phones. */
+@media (max-width: 480px) {
+  .top { flex-wrap: wrap; }
+  .top nav { flex-wrap: wrap; width: 100%; }
+}
